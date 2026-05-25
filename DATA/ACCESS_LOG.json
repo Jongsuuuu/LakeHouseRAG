@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2026-03-20 10:30:05",
+    "user_id": "admin_kim",
+    "action": "search",
+    "query": "DeepAuto",
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-03-20 11:15:22",
+    "user_id": "guest_07",
+    "action": "download",
+    "target_file": "AI_Report_2024.pdf",
+    "status": "success"
+  },
+  {
+    "timestamp": "2026-03-21 12:05:10",
+    "user_id": "dev_lee",
+    "action": "error",
+    "error_msg": "Timeout at Cashe access",
+    "status": "fail"
+  }
+]
