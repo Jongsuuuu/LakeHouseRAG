@@ -34,7 +34,7 @@
 
 <img width="1195" height="1545" alt="image" src="https://github.com/user-attachments/assets/edc408f2-95da-4841-90f4-cf1432a7bd4d" />
 
-※ 아키텍처 다이어그램 시각화에는 ChatGPT(OpenAI) 기반 이미지 생성 기능을 활용했습니다.
+※ 아키텍처 다이어그램 시각화에는 Claude 기반 이미지 생성 기능을 활용했습니다.
 
 ---
 
