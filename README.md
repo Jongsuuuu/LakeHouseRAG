@@ -418,14 +418,14 @@ for doc in extra_docs + semantic_docs:
 ---
 ## ✅ 실행 예시 (Streamlit)
 
-### ① ^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$ (정규식) 검색
+### ① 채팅 검색
 <img width="696" height="734" alt="image" src="https://github.com/user-attachments/assets/a89888c5-4989-4b6f-9a2b-77ebe1be333a" />
 
-### ② 딥오토 (단어) 검색
+### ② 파일 탐색기
 <img width="685" height="708" alt="image" src="https://github.com/user-attachments/assets/95415310-4b77-4a60-a1c2-1b24fbbd1d98" />
 
 
-### ③ 재무제표 요약 (문장) 검색
+### ③ 현황 대시보드
 <img width="703" height="707" alt="image" src="https://github.com/user-attachments/assets/5da4d585-d0e6-456a-81d5-19f749bc9a81" />
 
 
